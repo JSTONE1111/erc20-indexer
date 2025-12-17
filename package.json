@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@chakra-ui/react": "^2.4.6",
-    "alchemy-sdk": "^2.2.5",
+    "alchemy-sdk": "^3.6.5",
     "ethers": "^5.7.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
